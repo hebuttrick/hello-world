@@ -1,2 +1,2 @@
 # hello-world
-my new repository
+Damn! Somehow the information I typed fifteen minutes ago was lost.
